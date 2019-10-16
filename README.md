@@ -18,12 +18,12 @@ Repository for Term Project Material in 2019
 
 | Time Slot | Title | Presenter |
 | --------- | ----- | --------- |
-| 10h00    |  TBD       | [Andre Antonitsch](/antonitsch) |
-| 10h15    |  TBD       | [Andrey Salvi](/salvi) |
-| 10h30    |  TBD       | [Felipe Tasoniero](/tasoniero) |
-| 10h45    |  TBD       | [Gabriel Figlarz](/figlarz) |
-| 11h00    |  TBD       | [Matheus Marcon](/marcon) |
-| 11h15    |  TBD       | [Nathan Gavenski](/gavenski) |
+| 10h00    |  Reinforcement Learning for Active Appearance Model Dataset Selection       | [Andre Antonitsch](/antonitsch) |
+| 10h15    |  Pruning Neural Networks with Lottery Tickets in a MDP Approach       | [Andrey Salvi](/salvi) |
+| 10h30    |  Neural Network Architecture Search Using Automated Planning       | [Felipe Tasoniero](/tasoniero) |
+| 10h45    |  Public Transportation Modelling: Planning Bus Lines Routes  | [Gabriel Figlarz](/figlarz) |
+| 11h00    |  Learning Heuristics with Graph Convolutional Networks  | [Matheus Marcon](/marcon) |
+| 11h15    |  Behavioral Cloning from Image Observation       | [Nathan Gavenski](/gavenski) |
 
 <!-- | 10h00     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) |
 | 10h15     | A COLREGs-Compliant Local Guidance System for Unmanned Surface Vehicles based on Hierarchical Task Network   | [Darlan Jurak](/jurak) |
@@ -37,7 +37,7 @@ Repository for Term Project Material in 2019
 ## Assessment Criteria
 
 ### Part 1: Project presentation
-The first assessment grading criteria is as follows.
+The first assessment grading criteria is as follows (you should follow the [proposed structure](Proposal.md)). 
 
 - Application Domain Complexity (30%) - How complex the application domain you selected is difficult to model, yet realistically achievable within the course.
 - Paper readability (40%) - How well written the 2-page paper you wrote is, we break this down into the following criteria
